@@ -1,0 +1,4 @@
+Cybersecurity ariticle: https://ung.edu/continuing-education/news-and-media/cybersecurity.php
+M365 premium breakdown: https://learn.microsoft.com/en-us/microsoft-365/admin/admin-overview/what-is-microsoft-365?view=o365-worldwide
+Azure plans: https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory-pricing#coreui-contentrichblock-gtwdiwu
+
