@@ -18,13 +18,13 @@
   | Microsoft Defender             | Uses AI to automatically scan emails, SharePoint Online, OneDrive, and Teams for attachments and links and informs users whetehr or not they are safe. Attachments are tested in a sandbox environment and will not be opened if they are found to be malicious.               |
   |                                |                                                                                                                                                                                                                                                                                |
   
- >## Cybersecurity Facts
- > * There was increase of over 300% in the number of ransomware attacks in the past year, and over 50% of these are directed at small businesses
- > * The average cost of a data breach is around $108,000
- >   * Microsoft business premium is only $26/user/month
- > * Nearly one in four businesses have had a security breach in the last year
- > * There are over 300 million fraudulent sign-in attempts to Microsoft's cloud services every day.
- >   * Over 99% of account compromise attacks can be blocked by enabling multifactor authentication
+ ## Cybersecurity Facts
+  * There was increase of over 300% in the number of ransomware attacks in the past year, and over 50% of these are directed at small businesses
+  * The average cost of a data breach is around $108,000
+    * Microsoft business premium is only $26/user/month
+  * Nearly one in four businesses have had a security breach in the last year
+  * There are over 300 million fraudulent sign-in attempts to Microsoft's cloud services every day.
+    * Over 99% of account compromise attacks can be blocked by enabling multifactor authentication
  
  ## The Solution
    Microsoft Business Premium is a complete solution that will help prioritize hybrid work while also focusing on increased security for your business.
@@ -33,5 +33,5 @@
  
  ## Plans breakdown
  
- ![](compare.png)
+ ![](Compare.png)
  
